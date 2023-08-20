@@ -102,5 +102,3 @@ and compare the targets with the predictions with
 Karina Kniel - karina.kniel@stud.uni-heidelberg.de
 
 Project Link: [https://github.com/KarinaKniel/ParametricLinearOptimizationUsingNeuralNetworks](https://github.com/KarinaKniel/ParametricLinearOptimizationUsingNeuralNetworks)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
