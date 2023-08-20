@@ -6,7 +6,7 @@
     which I have described in my thesis "Parametric Linear Optimization using Neural Networks", 
     including the necessary functions for data processing.
     <br />
-    <a href="https://github.com/KarinaKniel/ParametricLinearOptimizationUsingNeuralNetwork"><strong>Explore the files »</strong></a>
+    <a href="https://github.com/KarinaKniel/ParametricLinearOptimizationUsingNeuralNetworks"><strong>Explore the files »</strong></a>
     <br />
     <a href="https://github.com/KarinaKniel/ParametricLinearOptimizationUsingNeuralNetworks/issues">Report Bug  »</a>
   </p>
